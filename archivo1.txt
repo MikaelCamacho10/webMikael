@@ -2,3 +2,4 @@ Chanchito feliz muy feliz.
 pero agregue esta linea como nueva.
 ademas voy a usar el comando Diff.
 aja.
+Acabo de crear una rama, ramaB
